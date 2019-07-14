@@ -1,2 +1,3 @@
 N,K=map(int,input().split())
-print(N**K)
+a=N**K
+print(a)
